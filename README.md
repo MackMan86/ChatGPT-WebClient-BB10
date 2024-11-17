@@ -30,7 +30,7 @@ This script allows you to use ChatGPT on older devices and browsers by hosting t
    - Update the model **before entering your API key** to ensure the correct settings are applied.
 
 4. **Set a Password for Login:**
-   - Open `login.php`.
+   - Open `index.php`.
    - Locate the `define` line to set your own access password:
      ```php
      define("PASSWORD", "your_custom_password");
