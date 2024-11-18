@@ -1,5 +1,6 @@
-# ChatGPT-WebClient-BB10
 ---
+
+# ChatGPT-WebClient-BB10
 
 This script allows you to use ChatGPT on older devices and browsers by hosting the chat on your own server. It is a lightweight and simple implementation with support for ChatGPT 3.5 and GPT-4. Enjoy using modern AI technology on devices that were previously unsupported!
 
@@ -69,3 +70,7 @@ Enjoy this script and the freedom it provides to use ChatGPT on older devices. I
 MackMan86**
 
 ---
+## Additional Compatibility
+
+- This script has been successfully tested on **BlackBerry Bold** devices using the **Opera Mini Browser**.
+- Compatibility with other older devices and browsers may vary and is currently unverified.
