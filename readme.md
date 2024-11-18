@@ -70,3 +70,7 @@ Enjoy this script and the freedom it provides to use ChatGPT on older devices. I
 MackMan86**
 
 ---
+## Additional Compatibility
+
+- This script has been successfully tested on **BlackBerry Bold** devices using the **Opera Mini Browser**.
+- Compatibility with other older devices and browsers may vary and is currently unverified.
